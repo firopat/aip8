@@ -1,3 +1,3 @@
 def aip8():
-    print("Hello, MIEM")
+    print('Hello, everybody')
 aip8()
